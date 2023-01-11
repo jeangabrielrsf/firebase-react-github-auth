@@ -6,7 +6,7 @@ A proof of concept application. It uses firebase to authenticate a github accoun
 
 
 
-## Uso/Exemplos
+## Uso/Usage
 1) install the dependencies and create a node_modules folder
 ```javascript
 npm install
