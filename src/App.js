@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { useLogin } from "./hooks/useLogin";
-import { useLogout } from "./hooks/useLogout";
 import { AuthContext } from "./contexts/AuthContext";
 import ProfileCard from "./components/ProfileCard";
 

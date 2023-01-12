@@ -1,8 +1,4 @@
-import {
-	GithubAuthProvider,
-	signInWithPopup,
-	signInWithRedirect,
-} from "firebase/auth";
+import { GithubAuthProvider, signInWithPopup } from "firebase/auth";
 import { auth } from "../firebase/config";
 import { useState, useContext } from "react";
 import { AuthContext } from "../contexts/AuthContext";
